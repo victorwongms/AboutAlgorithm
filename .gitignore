@@ -1,0 +1,6 @@
+.git
+.vs
+lib/*
+out/
+*.json
+HeapAlgorithm/
