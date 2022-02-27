@@ -3,7 +3,7 @@
 #include "MaxBinaryHeap.hpp"
 #include "MaxIndexBinaryHeap.hpp"
 
-int main(char* argc, char** argv)
+int main(int argc, char** argv)
 {
 	//MaxBinaryHeap<int> mp(100);
 	//std::srand(time(NULL));

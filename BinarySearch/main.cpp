@@ -1,7 +1,7 @@
 #include "BinarySearch.hpp"
 #include "BinarySearchTree.hpp"
 
-int main(char* argc, char** argv[])
+int main(int argc, char** argv)
 {
 	//int tem[] = { 1,1,3,3,5,5,5,9,9 };
 	//int count = sizeof(tem) / sizeof(int);
